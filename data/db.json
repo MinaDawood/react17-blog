@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "sinpask cdakncdpkc acknadpcind jdsbcadkncad",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "My First Blog 2",
+      "body": "sinpask cdakncdpkc acknadpcind jdsbcadkncad",
+      "author": "Mina",
+      "id": 2
+    }
+  ]
+}
